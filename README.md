@@ -1,3 +1,6 @@
+Need to add node_modules to the repo before running.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
